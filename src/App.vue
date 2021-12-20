@@ -1,7 +1,6 @@
 <template>
   <h1>hello jenkins</h1>
   <h1>测试自动化部署</h1>
-  <h1>欢迎ccz</h1>
 </template>
 
 <script>
